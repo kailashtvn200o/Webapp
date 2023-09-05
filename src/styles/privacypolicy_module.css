@@ -1,0 +1,452 @@
+.text0{
+    margin-top: 51px;
+    margin-left: 101%;
+    font-size: 23px;
+    width: 30%;
+    font-weight: 700;
+}
+.maain{width: 100%;
+    margin-left: -5%;
+}
+.maintxt{
+    margin-left: 28%;
+    font-size: 20px;
+    width: 895px;
+    margin-top: 47px;
+    font-weight: 600;
+}
+.firsttxt{
+    font-size: 20px;
+    margin-top: 32px;
+    width: 80%;
+    margin-left: 180px;
+    font-weight: 600;
+}
+.subtxt1{
+    font-size: 17px;
+    width: 1111px;
+    margin-top: 23px;
+    font-weight: 400;
+
+}
+.subtxt2{
+    font-weight: 400;
+    font-size: 17px;
+    width: 1100px;
+    margin-top: 23px;
+
+}
+.secondtxt{
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 300px;
+    width: 80%;
+    font-weight: 600;
+}
+.subtxt3{
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+    font-weight: 400;
+}
+.subtxt4{
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.thirdtxt{
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 300px;
+    width: 80%;
+    font-weight: 600;
+}
+.subtxt5{
+   
+        font-weight: 400;
+        font-size: 17px;
+        width: 895px;
+        margin-top: 23px;
+
+}
+.fourthtxt{
+    font-size: 20px;
+    margin-top: 32px;
+    width: 80%;
+    margin-left: 300px;
+    font-weight: 600;
+}
+.subtxt6{
+   
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.subtxt7{
+   
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.subtxt8{
+   
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.fifthtxt{
+    width: 80%;
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 300px;
+    font-weight: 600;
+}
+.subtxt9{
+   
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.sixthtxt{
+    width: 80%;
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 300px;
+    font-weight: 600;
+}
+.subtxt10{
+   
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.seventhtxt{
+    width: 80%;
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 300px;
+    font-weight: 600;
+}
+.subtxt11{
+   
+    font-weight: 400;
+    font-size: 17px;
+    width: 895px;
+    margin-top: 23px;
+}
+.eigthtxt{
+    width: 80%;
+    font-size: 20px;
+    margin-top: 32px;
+    margin-left: 300px;
+    font-weight: 600;
+}
+.subtxt12{
+   
+    font-weight: 400;
+    font-size: 17px;
+    margin-bottom: 10%;
+    width: 895px;
+    margin-top: 23px;
+}
+
+
+    @media(max-width:600px){
+
+        .text0{margin-top: 51px;
+            margin-left: 121%;
+            font-size: 23px;
+            width: 50%;
+            font-weight: 700;
+        }
+        .maain{
+            margin-left: -90%;
+        }
+
+    .maintxt{font-weight: 600;
+        font-size: 18px;
+        margin-bottom: 10%;
+        width: 93%;
+        margin-top: 23px;
+        margin-left: 95%;
+    }
+    .firsttxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt1{
+        font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 10%;
+    width: 100%;
+    margin-top: 23px;
+    margin-left: 15%;
+    
+    }
+    .subtxt2{
+        font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 10%;
+    width: 100%;
+    margin-top: 23px;
+    margin-left: 15%;
+    
+    }
+    .secondtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt3{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .subtxt4{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .thirdtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt5{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    
+    }
+    .fourthtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt6{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .subtxt7{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .subtxt8{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .fifthtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt9{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .sixthtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt10{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .seventhtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt11{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+    .eigthtxt{    
+        font-size: 18px;
+        width: 82%;
+        margin-top: 32px;
+        margin-left: 375px;
+        font-weight: 600;
+    }
+    .subtxt12{
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 10%;
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 15%;
+    }
+
+    .footer-light .fot{    
+        width: 100%;
+    margin-left: 0%;
+    margin-top: 0%;
+    text-align: -webkit-center;
+      }
+
+      
+    .footer-section1 .social-icons1 {
+        width: 80% !important;
+        margin-left: 10% !important;
+        margin-top: 4% !important;
+        text-align: -webkit-center;
+      }
+
+}
+
+
+.bx-menu{
+    margin-left: -60rem;
+    display: none!important;
+    cursor: pointer;
+  }
+  
+  .navbar-dropdown {
+    
+    display: flex;
+    position: relative;
+  }
+  
+  .dropdown-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: black;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px;
+    display: none;
+    flex-direction: column;
+    min-width: 120px;
+    color: black;
+  }
+  
+  .dropdown-item {
+    margin-bottom: 8px;
+    cursor:pointer;
+  }
+  
+  
+  @media(max-width:992px){
+  .bx-menu{
+    display: flex!important;
+    cursor: pointer;
+    margin-left: 5rem;
+  }
+  
+  .navbar-dropdown {
+    display: flex;
+    position: relative;
+    z-index: 1;
+    margin-left: 90%;
+    margin-top: -19%;
+  }
+  
+  .dropdown-content {
+    left: -122%;
+    margin-top: 14%;
+    line-height: 253%;
+    position: absolute;
+    width: 14em;
+    display: flex;
+    color: black;
+    background-color: #f9f6f4;
+    border-radius: 3%;
+    height: 15em;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .dropdown-item {
+    margin-bottom: 8px;
+    cursor: pointer;
+  }
+  }
+
+  .gplys3{
+    height: 100%;
+    margin-left: -4%;
+    width: 178px;
+  }
+  
+
+  
+@media(max-width:600px){
+  .gplys3{
+    height: 99%;
+    width: 185px;
+    margin-left: -4%;
+  }
+}
+@media(max-width:600px){
+    .gplys7{
+     
+        height: 89%;
+        margin-top: -70px;
+        margin-left: 1118%;
+        width: 144px;
+      }
+      .gplys6{
+        margin-left: 21px;
+        width: 744%;
+        margin-top: 18px;
+        height: 128%;
+      }
+      
+    
+  }

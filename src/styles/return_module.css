@@ -1,0 +1,317 @@
+.alter{
+  width: 305px;
+  margin-top: 53px;
+  font-weight: 600;
+  margin-left: 521px;
+  font-size: 29px;
+  font-family: revert;
+}
+.rtrntxt{
+ 
+  margin-bottom: 10%;
+  font-weight: 400;
+  font-family: revert;
+  font-size: 21px;
+  margin-top: 5%;
+  margin-left: 10%;
+  width: 88%;
+}
+.que{
+  margin-bottom: 10%;
+  font-weight: 400;
+  font-family: revert;
+  font-size: 21px;
+  margin-top: -6%;
+  margin-left: 15%;
+  width: 88%;
+
+}
+@media(max-width:600px){
+    .rtrntxt{
+     
+        margin-bottom: 10%;
+        font-weight: 400;
+        font-family: revert;
+        font-size: 21px;
+        margin-top: 8%;
+        margin-left: 15%;
+        width: 86%;
+    }
+    .alter{
+      width: 305px;
+      margin-top: 53px;
+      font-weight: 600;
+      margin-left: 15px;
+      font-size: 29px;
+      font-family: revert;
+    }
+
+    
+}
+.footer {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .footer-section1 {
+    font-family: inherit;
+    background-color: white;
+    padding-top: 60px;
+  }
+  
+  .footer-section1 h4 {
+    color: #fff;
+    font-size: 16px;
+    margin: 0 0 20px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    position: relative;
+    padding: 0 0 10px;
+  }
+  .footer-section1 h4:after {
+    position: absolute;
+    width: 30px;
+    height: 1px;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: #fff;
+    opacity: 0.8;
+  }
+  
+  .footer-section1 .social-icons1 {
+    margin: -34px 0 0 1050px;
+    padding: 0;
+    width: 14%;
+  }
+  
+  .footer-section1 .social-icons1 li {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 8px;
+  }
+  .footer-section1 .social-icons1 li a {
+    display: block;
+    padding: 0;
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 12px;
+    background: transparent;
+    background: rgba(255,255,255,0.1);
+    -webkit-transition: ease all 0.3s;
+       -moz-transition: ease all 0.3s;
+         -o-transition: ease all 0.3s;
+            transition: ease all 0.3s;
+  }
+  .footer-section1 .social-icons1 li a:hover {
+    background: rgba(255,255,255,0.8);
+    color: #010e28;
+  }
+  
+  .footer-section1 .fot-link {
+    margin-left: -90%;
+    padding: 0;
+    line-height: 36.44px;
+  }
+  .footer-section1 .fot-link li {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 8px;
+    font-size: 12px;
+  }
+  .footer-section1 .fot-link a {
+    color: rgba(255,255,255,0.6);
+    font-size: 13px;
+    letter-spacing: 0.6px;
+    position: relative;
+    text-decoration: none;
+  }
+  .footer-section1 .fot-link a:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 1px;
+    background: rgba(255,255,255,0.3);
+    -webkit-transition: ease all 0.3s;
+       -moz-transition: ease all 0.3s;
+         -o-transition: ease all 0.3s;
+            transition: ease all 0.3s;
+  }
+  .footer-section1 .fot-link a:hover:after {
+    width: 100%;
+  } 
+  
+  .footer-section1 .footer-text {
+    width: 360px;
+    max-width: 100%;
+  }
+  .footer-section1 p {
+    margin: 0;
+    color: black;
+    font-size: 13px;
+    margin-left: -12%;
+    letter-spacing: 0.6px;
+    line-height: 24px;
+  }
+  .footer-copy1 {
+    margin-top: 40px;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding: 15px 0;
+    text-align: center;
+  }
+  .footer-copy1 p {
+    margin-right: 69%;
+    font-size: 11px;
+    color: black;
+  }
+  
+  .footer-light .footer-section1 h4 { 
+       font-size: 28.44px;
+    margin-left: 12%;
+    margin-top: -11%;
+    color: #333357;
+    font-weight: 600;
+  }
+  .footer-light .footer-section1 .fot-link a,
+  .footer-light .footer-section p {
+    color: #333357;
+    font-weight: 500;
+  }
+  
+  .footer-light .footer-section1 .social-icons1 li a {
+    color:#ffffff;
+    background-color: #212727;
+    border-radius: 100%;
+    width: 21px;
+    height: 31px;
+    
+  }
+  .footer-light .footer-copy1 {
+    border-top: 1px solid #dee2e6;
+  }
+  .subscribe-box1 {
+    width: 197px;
+    height: 58px;
+    gap: 12px;
+    margin-left: -12%;
+    margin-top: 21px;
+    max-width: 100%;
+    display: flex;
+    vertical-align: top;
+    position: relative;
+  }
+  
+  @media (max-width: 600px){
+     
+    .subscribe-box1{
+      width: 48px !important;
+      margin-left: 0px !important;
+    }
+  
+    .footer-section1 .fot-link {
+      margin-left: 7%;
+      padding: 0;
+      line-height: 36.44px;
+      width: 100%;
+    }
+  
+    .subscribe-box2{
+      width: 18px;
+      margin-left: 16px;
+    }
+  }
+  
+  @media (max-width: 600px){
+     
+    .footer-section p{
+      width: 80%;
+      margin-left: -5%;
+      text-align: -webkit-center;
+    }
+  }
+  
+  @media (max-width: 600px){
+     
+    .footer-section .fot-link{
+      width: 100%;
+      margin-left: 2% !important;
+      text-align: left;
+    }
+    
+  .footer-section1 p {
+    margin: 0;
+    color: black;
+    font-size: 13px;
+    margin-left: 0px;
+    letter-spacing: 0.6px;
+    line-height: 24px;
+  }
+  }
+  
+  @media (max-width: 600px){
+     
+    .footer-copy{
+      width: 80%;
+      margin-left: 9%;
+      text-align: -webkit-center;
+    }
+  }
+  
+  @media (max-width: 600px){
+     
+    .footer-section .social-icons{
+      margin: 30px 0 0 167px;
+      padding: 0;
+      width: 35%;
+    }
+  }
+  
+  @media (max-width: 600px){
+     
+    .footer-light .fot{    width: 52%;
+      margin-left: 30%;
+      margin-top: 0%;
+      text-align: -webkit-center;
+    }
+   
+  }
+  .footer-light .fot1{
+    padding: 0%;
+    margin-top: -24px;
+    width: 23%;
+    text-decoration: none;
+    color: black;
+    margin-left: 137px;
+  
+    }  
+ @media(max-width:600px){
+    .footer-section1 .social-icons1 {
+        width: 80% !important;
+        margin-left: 10% !important;
+        margin-top: 4% !important;
+        text-align: -webkit-center;
+      }
+ }
+ @media(max-width:600px){
+  .gplys5{
+   
+    height: 89%;
+    margin-left: 1070%;
+    margin-top: -74px;
+    width: 144px;
+    }
+    .gplys4{
+      margin-left: 23px;
+      width: 755%;
+      margin-top: 21px;
+      height: 94%;
+    }
+    
+  
+}
