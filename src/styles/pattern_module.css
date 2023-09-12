@@ -1,0 +1,109 @@
+.centertxt1{
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    margin-top: 66px;
+}
+.downtxt1{
+    margin-left: 646px;
+    margin-top: 20px;
+    font-size: 23px;
+}
+.image1{
+    width: 195px;
+    height: 224px;
+    margin-left: 267px;
+    margin-top: 63px;
+    border-radius: 13px;
+}
+.image2{
+    width: 195px;
+    height: 224px;
+    margin-left: 175px;
+    margin-top: 63px;
+    border-radius: 13px;
+}
+.image3{
+    width: 195px;
+    height: 224px;
+    margin-left: 151px;
+    margin-top: 63px;
+    border-radius: 13px;
+}
+.image4{
+    width: 195px;
+    height: 224px;
+    margin-left: 280px;
+    margin-top: 63px;
+    border-radius: 13px;
+}
+.image5{
+    width: 195px;
+    height: 224px;
+    margin-left: 158px;
+    margin-top: 63px;
+    border-radius: 13px;
+}
+.images6{
+    width: 195px;
+    height: 224px;
+    margin-left: 158px;
+    margin-top: 63px;
+    border-radius: 13px;
+}
+@media(max-width:600px){
+    .centertxt1{
+        text-align: center;
+        font-weight: 700;
+        font-size: 32px;
+        margin-top: 66px;
+    }
+    .downtxt1{
+        margin-left: 27px;
+        margin-top: 20px;
+        font-size: 23px;
+    }
+    .image1{
+        width: 155px;
+    height: 200px;
+    margin-left: 46px;
+    margin-top: 122px;
+    border-radius: 13px;
+    }
+    .image2{
+        width: 155px;
+        height: 213px;
+        margin-left: 225px;
+        margin-top: -208px;
+        border-radius: 13px;
+    }
+    .image3{
+        width: 155px;
+        height: 213px;
+        margin-left: 42px;
+        margin-top: 63px;
+        border-radius: 13px;
+    }
+    .image4{
+        width: 155px;
+        height: 215px;
+        margin-left: 225px;
+        margin-top: -218px;
+        border-radius: 13px;
+    }
+    .image5{
+        width: 155px;
+        height: 221px;
+        margin-left: 34px;
+        margin-top: 63px;
+        border-radius: 13px;
+    }
+    .images6{
+        width: 155px;
+    height: 224px;
+    margin-left: 223px;
+    margin-top: -253px;
+    border-radius: 13px;
+    }
+
+}
