@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Footer from './Footer';
 import Header from './Header';
+import Link from 'next/link';
 
 export default function Size() {
     const [selectedButton, setSelectedButton] = useState(null);
@@ -14,6 +15,7 @@ export default function Size() {
         <>
 
             <Header />
+            <Link className="nav-btn nav-link" href="/Collor">Next</Link>
             <div className='nxtxt'>Available sizes</div>
             <div className='buttonContainer'>
 

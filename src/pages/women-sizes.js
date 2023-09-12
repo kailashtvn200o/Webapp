@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import Link from 'next/link';
 import Footer from './Footer';
 import Header from './Header'
 export default function Womens() {
@@ -13,6 +13,7 @@ export default function Womens() {
     return (
         <>
             <Header />
+            <Link className="nav-btn nav-link" href="/Collor">Next</Link>
             <div className='page'>
 
                 <div className='nxtxt'>Available Sizes</div>

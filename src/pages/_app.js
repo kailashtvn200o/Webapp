@@ -13,7 +13,8 @@ import '../styles/Fabric_module.css'
 import '../styles/pattern_module.css'
 import '../styles/size_module.css'
 import '../styles/sizes_module.css'
-
+import '../styles/Collor_module.css'
+import '../styles/Model_module.css'
 
 
 const inter = Inter({ subsets: ['latin'] })

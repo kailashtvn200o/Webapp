@@ -1,0 +1,365 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2337,
+      "max": [
+        0.27935799956321716,
+        0.40814700722694397,
+        0.27474498748779297
+      ],
+      "min": [
+        -0.2768790125846863,
+        -0.3127270042896271,
+        -0.27474498748779297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28044,
+      "componentType": 5126,
+      "count": 2337,
+      "max": [
+        0.998968243598938,
+        0.9831624627113342,
+        0.999792218208313
+      ],
+      "min": [
+        -0.9992356300354004,
+        -0.44928306341171265,
+        -0.9998764991760254
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2337,
+      "max": [
+        0.999444305896759,
+        0.5009810328483582,
+        0.9887933731079102,
+        1.0
+      ],
+      "min": [
+        -0.9996019601821899,
+        -0.6428700685501099,
+        -0.9997198581695557,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2337,
+      "max": [
+        0.6900879740715027,
+        0.818822979927063
+      ],
+      "min": [
+        0.018269799649715424,
+        0.44172999262809753
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13056,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 56088,
+      "componentType": 5126,
+      "count": 20999,
+      "max": [
+        1.0,
+        0.5276749730110168,
+        0.24954000115394592
+      ],
+      "min": [
+        -1.0,
+        -0.5276749730110168,
+        -0.24460700154304504
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 308076,
+      "componentType": 5126,
+      "count": 20999,
+      "max": [
+        0.9999727606773376,
+        0.9838014841079712,
+        0.9999628663063049
+      ],
+      "min": [
+        -0.9999056458473206,
+        -0.9999238848686218,
+        -0.9999979734420776
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 37392,
+      "componentType": 5126,
+      "count": 20999,
+      "max": [
+        0.9999765753746033,
+        0.9946255683898926,
+        0.9999343156814575,
+        1.0
+      ],
+      "min": [
+        -0.9999819397926331,
+        -0.9994281530380249,
+        -0.9999772906303406,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 18696,
+      "componentType": 5126,
+      "count": 20999,
+      "max": [
+        0.9868029952049255,
+        0.9639059901237488
+      ],
+      "min": [
+        0.0031646399293094873,
+        0.0012170800473541021
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 52224,
+      "componentType": 5125,
+      "count": 121944,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Kenneth_Allen (https://sketchfab.com/Kenneth_Allen)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/punisher-vest-and-shirt-b4954fa4806d44629a8848137c46690d",
+      "title": "Punisher vest and shirt"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 540000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 186688,
+      "byteOffset": 540000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 560064,
+      "byteOffset": 726688,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 373376,
+      "byteOffset": 1286752,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1660128,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/shirt_lvl2_blinn1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/shirt_lvl2_blinn1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/shirt_lvl2_blinn1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "shirt_lvl2_blinn1",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.371139006309477e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        -0.999999999999999,
+        -4.371139006309477e-08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Vest_Low"
+    },
+    {
+      "mesh": 0,
+      "name": "defaultMaterial"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Shirt_Low"
+    },
+    {
+      "mesh": 1,
+      "name": "defaultMaterial"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
